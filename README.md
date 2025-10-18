@@ -32,7 +32,7 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: 
+# Input and Output: 
 Video Generation: 
 prompt 1:A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.
 
